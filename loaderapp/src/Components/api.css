@@ -1,0 +1,14 @@
+*{
+    background-color: bisque;
+}
+
+h3{
+    border: 2px solid red;
+    padding-top: 5px;
+    
+}
+
+button.btn-primary{
+    margin-bottom: 10px;
+}
+
